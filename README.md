@@ -3,7 +3,6 @@ Whac-A-Mole (Game)
 Nice time pass and good tool to test your reflex time
 uses arduino 5 Led and 5 buttons one 16x2 LCD
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 Original code was developed by someone else and modified by me to add some more features like reset at end of game, Reflex time display etc
 i will add some more feature and fine tune the codes (i know there are a lots of variable used for no reason) when i get time
 
